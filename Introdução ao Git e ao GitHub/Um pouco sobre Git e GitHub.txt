@@ -1,0 +1,6 @@
+No primeiro momento que comecei a ter contato com Git e GitHub, achei que teria
+uma certa dificuldade com qual era a função de cada um. Porém depois de algumas aulas já estava mais familiarizado com as duas ferramentas e suas utilidades.
+
+O Git Bash é um terminal extendido para otimizar o uso do Git. Ele é um sistema de controle de versionamento distribuído que permite o rastreio e alterações de arquivos para colaborar em projetos. Ele permite que diversos desenvolvedores trabalhem simultaneamente, mantendo um histórico completo de todas as alterações feitas ao longo do desenvolvimento. Isso permite que versões antigas sejam facilmente recuperadas.
+
+Já o GitHub é uma plataforma web que utiliza o Git para hospedar repositórios de código. Oferecendo ferramentas colaborativas como os pull requests, que facilitam a comunicação entre desenvolvedores.
